@@ -78,4 +78,4 @@ At this time only the resource_type of "osa" is supported, but we welcome additi
 In addition, community contributions to integrate other open applications are mostly welcome as well (e.g. ELK, Zabbix, Landspace, SaltStack, etc.).
 
 After running these steps Nagios should be pre-installed into the defined lxc containers and properly configured and pre-populated with lots of probes to monitor all OpenStack hosts and containers/services.
-
+Testing
