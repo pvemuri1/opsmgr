@@ -28,6 +28,7 @@
 *Comment 9
 *Comment 10
 *Comment 11
+*comment 12
 */
 
 task build (type : Exec) {
