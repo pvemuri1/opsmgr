@@ -1,18 +1,7 @@
 /* Copyright 2016, IBM US, Inc.
-*Test Comment2
-*Test Comment3
-* Test Comment1
-*Test Comment2
-*Test Comment1
-*Test Comment 13
-*
-*Test Comment 14
-*Zuul Comment
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
 * You may obtain a copy of the License at
-*
-*comment 15
 *     http://www.apache.org/licenses/LICENSE-2.0
 * Test Comment1
 * Unless required by applicable law or agreed to in writing, software
@@ -20,18 +9,6 @@
 * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 * See the License for the specific language governing permissions and
 * limitations under the License.
-*Comment for Zuul
-*Comment 2
-*comment 3
-*Comment4
-*Comment 5
-*Comment 6
-*comment 7
-*Comment 8
-*Comment 9
-*Comment 10
-*Comment 11
-*comment 12
 */
 
 task build (type : Exec) {
