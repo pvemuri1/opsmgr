@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Pavani"
 echo "${GIT_COMMIT}"
 echo "Ali"
 echo "${GERRIT_PATCHSET_REVISION}"
