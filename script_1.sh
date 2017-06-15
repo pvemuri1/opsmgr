@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Pavani test22..."
+echo "Pavani test422..."
 echo "${GIT_COMMIT}"
 echo "Ali"
 echo "${GERRIT_PATCHSET_REVISION}"
