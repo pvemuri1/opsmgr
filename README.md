@@ -1,5 +1,5 @@
 # Instructions for installing the Opsmgr Inventory cod test92
-
+#Commnet added by Mujahid for testing
 These instructions are written for Ubuntu, however the same steps would work for other Linux Operating Systems using the correct commands for the OS. (for instance yum instead of apt-get)
 
 python 2.7 and python 3.4, 3.5 are supported. The instructions below are for python 3.X, to use python 2.7 replace python3 with python, pip3 with pip.
