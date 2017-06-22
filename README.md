@@ -1,4 +1,4 @@
-# Instructions for installing the Opsmgr Inventory cod test222iie
+# Instructions for installing the Opsmgr Inventory cod test2
 
 These instructions are written for Ubuntu, however the same steps would work for other Linux Operating Systems using the correct commands for the OS. (for instance yum instead of apt-get)
 
