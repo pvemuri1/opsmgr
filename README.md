@@ -1,4 +1,4 @@
-# Instructions for installing the Opsmgr Inventory cod tes777777777777777777t
+# Instructions for installing the Opsmgr Inventory cod tet
 #Commnet added by Mujahid for testing
 These instructions are written for Ubuntu, however the same steps would work for other Linux Operating Systems using the correct commands for the OS. (for instance yum instead of apt-get)
 
