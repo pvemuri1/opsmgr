@@ -1,4 +1,4 @@
-# Instructions for installing the Opsmgr Inventory cod te9978777777999688333399128880000099999777766668
+# Instructions for installing the Opsmgr Inventory cod te99787777779996883333991288800000999997777666688888888888
 #Commnet added by Mujahid for testing
 These instructions are written for Ubuntu, however the same steps would work for other Linux Operating Systems using the correct commands for the OS. (for instance yum instead of apt-get)
 
